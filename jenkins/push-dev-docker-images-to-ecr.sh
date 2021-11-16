@@ -10,3 +10,4 @@ docker push "${IMAGE_TAG_VETS_SERVICE}"
 docker push "${IMAGE_TAG_VISITS_SERVICE}"
 docker push "${IMAGE_TAG_GRAFANA_SERVICE}"
 docker push "${IMAGE_TAG_PROMETHEUS_SERVICE}"
+#cc
